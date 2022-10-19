@@ -18,7 +18,7 @@ Students must submit the assignments they are asked to do and upload via  comman
 2. [Lab2:Basics of Shell programming.](https://pages.github.com/).	
 3. [Lab3:Implementation of scheduling algorithm.](https://pages.github.com/).
 4. [Lab4:Shell programming for file handling.](https://pages.github.com/).
-5.[Lab5:Implementation of CPU scheduling algorithm.](https://pages.github.com/).
+5. [Lab5:Implementation of CPU scheduling algorithm.](https://pages.github.com/).
 6. [Lab6:Implementation of Producer-Consumer problem using semaphores.](https://pages.github.com/).
 
 7. [Lab7:Writing a Simple Operating System part 1.](https://pages.github.com/).
